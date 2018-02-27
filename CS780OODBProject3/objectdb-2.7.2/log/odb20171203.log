@@ -1,0 +1,97 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-03 00:46:15 #1 store] 
+Database 'C:\Users\Future\Documents\NetBeansProjects\CS780OODBProject3\test.odb' is opened by 120708@Future-Level10
+
+[2017-12-03 00:46:15 #2 store] 
+Configuration path: C:\Users\Future\Documents\NetBeansProjects\CS780OODBProject3\objectdb-2.7.2\objectdb.conf
+
+[2017-12-03 00:46:15 #3 type.registry] 
+New type Venue
+
+[2017-12-03 00:46:15 #4 type.registry] 
+New type SingleVenue
+
+[2017-12-03 00:46:15 #5 type] 
+Type Venue is not enhanced.
+
+[2017-12-03 00:46:15 #6 type] 
+Type SingleVenue is not enhanced.
+
+[2017-12-03 00:46:15 #7 type.registry] 
+New type ComplexVenue
+
+[2017-12-03 00:46:15 #8 type.registry] 
+New type Seat
+
+[2017-12-03 00:46:15 #9 type.registry] 
+New type java.util.TreeSet<Seat>
+
+[2017-12-03 00:46:15 #10 type.registry] 
+New type Event
+
+[2017-12-03 00:46:15 #11 type.registry] 
+New type java.util.TreeSet<Event>
+
+[2017-12-03 00:46:15 #12 type] 
+Type ComplexVenue is not enhanced.
+
+[2017-12-03 00:46:15 #13 type.registry] 
+New type java.util.HashSet<SingleVenue>
+
+[2017-12-03 00:46:15 #14 type] 
+Type Seat is not enhanced.
+
+[2017-12-03 00:46:15 #15 type.registry] 
+New type Ticket
+
+[2017-12-03 00:46:15 #16 type.registry] 
+New type java.util.TreeSet<Ticket>
+
+[2017-12-03 00:46:15 #17 type.registry] 
+New type Price
+
+[2017-12-03 00:46:15 #18 type.registry] 
+New type java.util.TreeSet<Price>
+
+[2017-12-03 00:46:15 #19 type] 
+Type Event is not enhanced.
+
+[2017-12-03 00:46:15 #20 type.registry] 
+New type Performer
+
+[2017-12-03 00:46:15 #21 type.registry] 
+New type java.util.HashSet<Performer>
+
+[2017-12-03 00:46:15 #22 type] 
+Type Ticket is not enhanced.
+
+[2017-12-03 00:46:15 #23 type] 
+Type Price is not enhanced.
+
+[2017-12-03 00:46:15 #24 type] 
+Type Performer is not enhanced.
+
+[2017-12-03 00:46:15 #25 type.registry] 
+New type java.util.HashSet<Event>
+
+[2017-12-03 00:46:15 #26 type.registry] 
+New type java.util.TreeSet<java.lang.Object>
+
+[2017-12-03 00:46:15 #27 type.registry] 
+New type java.util.HashSet<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2017-12-03 00:48:14 #1 store] 
+Database 'C:\Users\Future\Documents\NetBeansProjects\CS780OODBProject3\test.odb' has been recovered (tr. 1-6)
+
+[2017-12-03 00:48:14 #2 store] 
+Database 'C:\Users\Future\Documents\NetBeansProjects\CS780OODBProject3\test.odb' is opened by 114028@Future-Level10
+
+[2017-12-03 00:48:14 #3 store] 
+Configuration path: C:\Users\Future\Documents\NetBeansProjects\CS780OODBProject3\objectdb-2.7.2\objectdb.conf
+
+[2017-12-03 00:53:37 #4 store] 
+Database 'C:\Users\Future\Documents\NetBeansProjects\CS780OODBProject3\test.odb' is closed by 114028@Future-Level10
+
